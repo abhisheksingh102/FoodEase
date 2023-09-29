@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhisheksingh102/React.git"
+    "url": "git+https://github.com/abhisheksingh102/FoodEase.git"
   },
   "author": "Abhishek Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhisheksingh102/React/issues"
+    "url": "https://github.com/abhisheksingh102/FoodEase/issues"
   },
-  "homepage": "https://github.com/abhisheksingh102/React#readme",
+  "homepage": "https://github.com/abhisheksingh102/FoodEase#readme",
   "devDependencies": {
     "@babel/core": "^7.22.1",
     "babel-plugin-transform-remove-console": "^6.9.4",
