@@ -15,7 +15,7 @@ const AppLayout = () => {
       <Outlet />
     </div>
   );
-};
+}; 
 
 const appRouter = createBrowserRouter([
   {
